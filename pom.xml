@@ -4,7 +4,6 @@
     <groupId>selenium-cucumber-java</groupId>
     <artifactId>selenium-cucumber-java</artifactId>
     <version>1.0.2-SNAPSHOT</version>
-         
 
     <!-- These are the aspectj.version properties for allure -->
     <properties>
